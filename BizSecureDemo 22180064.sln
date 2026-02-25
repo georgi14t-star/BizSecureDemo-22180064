@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizSecureDemo 22180064", "BizSecureDemo 22180064.csproj", "{FA1A6766-0A35-40E5-9140-88863E67FE1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA1A6766-0A35-40E5-9140-88863E67FE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1A6766-0A35-40E5-9140-88863E67FE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1A6766-0A35-40E5-9140-88863E67FE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1A6766-0A35-40E5-9140-88863E67FE1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {841EB020-F07B-4696-B827-22306A6D627C}
+	EndGlobalSection
+EndGlobal
