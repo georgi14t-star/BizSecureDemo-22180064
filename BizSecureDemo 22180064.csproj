@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>BizSecureDemo_22180064</RootNamespace>
+    <UserSecretsId>00289c18-cbff-4c5c-aba9-288721a96e45</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
