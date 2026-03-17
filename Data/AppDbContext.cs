@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using BizSecureDemo22180064.Models;
-namespace BizSecureDemo22180064.Data;
+
+namespace BizSecureDemo_22180064.Data;
 public class AppDbContext : DbContext
 {
     public DbSet<AppUser> Users => Set<AppUser>();
