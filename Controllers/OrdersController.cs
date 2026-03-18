@@ -1,6 +1,6 @@
 ﻿using System.Security.Claims;
 using BizSecureDemo_22180064.ViewModels;
-using BizSecureDemo22180064.Data;
+using BizSecureDemo_22180064.Data;
 using BizSecureDemo22180064.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;

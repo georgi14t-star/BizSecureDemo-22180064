@@ -1,8 +1,7 @@
 ﻿
 using System.Security.Claims;
-using BizSecureDemo22180064.Data;
-using BizSecureDemo22180064.Models;
-using BizSecureDemo22180064.ViewModels;
+using BizSecureDemo_22180064.Data;
+using BizSecureDemo_22180064.Models;
 using BizSecureDemo_22180064.ViewModels;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
@@ -10,6 +9,9 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.RateLimiting;
+using BizSecureDemo22180064.ViewModels;
+using BizSecureDemo22180064.Models;
+
 
 namespace BizSecureDemo22180064.Controllers;
 

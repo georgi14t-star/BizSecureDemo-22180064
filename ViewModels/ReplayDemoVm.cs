@@ -9,6 +9,8 @@
         public int UserId { get; set; }
         public decimal Amount { get; set; } = 100;
         public string Token { get; set; } = "SECRET123";
+        public string Nonce { get; set; } = string.Empty;
+
     }
 }
 

@@ -1,7 +1,7 @@
 ﻿namespace BizSecureDemo_22180064.Controllers;
-using BizSecureDemo22180064.Data;
-using BizSecureDemo22180064.Models;
-using BizSecureDemo22180064.Data;
+using BizSecureDemo_22180064.Data;
+using BizSecureDemo_22180064.Models;
+using BizSecureDemo_22180064.Data;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
